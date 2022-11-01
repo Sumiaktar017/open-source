@@ -71,8 +71,8 @@ def clear():
     os.system('clear')
     print(logo)
 logo =f"""____________________
-AUTHOR    : MR JADUGAR GAMERS
-FACEBOOK : KASHIF BALOCH
+AUTHOR    : Md Rihad
+FACEBOOK : Rihad
 VERSION    : 1.1
                                    [THE DEAD USER]
 ____________________"""
